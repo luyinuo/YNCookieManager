@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YNCookieManager_Example' do
+  pod 'YNCookieManager', :path => '../'
+
+  target 'YNCookieManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
