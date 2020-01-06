@@ -1,0 +1,22 @@
+{
+  "name": "YNCookieManager",
+  "version": "0.1.0",
+  "summary": "A short description of YNCookieManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yinuo lu/YNCookieManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yinuo lu": "yinuolu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yinuo lu/YNCookieManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YNCookieManager/Classes/**/*"
+}

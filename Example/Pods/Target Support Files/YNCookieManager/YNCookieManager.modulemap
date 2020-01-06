@@ -1,0 +1,6 @@
+framework module YNCookieManager {
+  umbrella header "YNCookieManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

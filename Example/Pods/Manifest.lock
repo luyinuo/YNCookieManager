@@ -1,0 +1,16 @@
+PODS:
+  - YNCookieManager (0.1.0)
+
+DEPENDENCIES:
+  - YNCookieManager (from `../`)
+
+EXTERNAL SOURCES:
+  YNCookieManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YNCookieManager: dbe94115c4876f6d8498fe355dadcb7726d68ee0
+
+PODFILE CHECKSUM: c8a88f56d2a94298c687fb1d7f18cc2dcfe2082b
+
+COCOAPODS: 1.8.4

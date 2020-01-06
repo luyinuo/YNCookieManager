@@ -1,0 +1,6 @@
+framework module Pods_YNCookieManager_Example {
+  umbrella header "Pods-YNCookieManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
